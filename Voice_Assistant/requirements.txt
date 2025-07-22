@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+requests
+spacy
+python-dotenv
+schedule
+os
+
+python -m spacy download en_core_web_sm
