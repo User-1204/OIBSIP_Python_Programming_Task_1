@@ -80,9 +80,9 @@ Opens websites like YouTube or Google, or performs searches for other queries.
 1. Create a `.env` file:
 ```
 
-TOMORROW\_API\_KEY=your\_api\_key
-EMAIL\_ADDRESS=your\_email
-EMAIL\_PASSWORD=your\_email\_password
+TOMORROW_API_KEY=your_api_key
+EMAIL_ADDRESS=your_email
+EMAIL_PASSWORD=your_email_password
 
 ```
 2. Folder structure
