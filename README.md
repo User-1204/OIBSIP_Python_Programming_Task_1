@@ -1,4 +1,4 @@
-# Voice Assistant Project
+# Voice Assistant
 
 ## Overview
 This project is a modular, voice-activated assistant built in Python.  
@@ -118,6 +118,7 @@ It also prints what you say and what it replies.
 ## Outcome and Demo
 A demo video showing the project:
 
+https://www.linkedin.com/posts/sakshii125_oasisinfobyte-internship-pythonprogramming-activity-7354023984478187520-R5Wq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFlzQCEBcgHpQxLz_XBWlVGbkhDirbT-r5Y
 
 
 ## Known Issues
@@ -136,8 +137,3 @@ This project can be improved further:
 - Better NLP for natural time parsing.
 
 Pull requests and suggestions are welcome.
-
-
-## Conclusion
-This project shows how speech recognition, NLP, APIs, and text-to-speech can be combined into a real Python assistant.  
-It’s modular, beginner-friendly, and a solid starting point for advanced assistants.
